@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: EDITH-MD
+    name: ZAHID-MD
     env: node
     plan: free
     repo: https://github.com/BANDAHAELI/Edith-MD
