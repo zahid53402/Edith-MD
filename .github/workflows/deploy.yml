@@ -1,4 +1,4 @@
-name: ZAHID-MD-DEPLOY
+name: EDITH-MD-DEPLOY
 
 on:
   workflow_dispatch:
