@@ -1,6 +1,6 @@
 {
-    "bot-name": "SHABAN-MD",
-    "description": "Whiskey Sockets Baileys Whatsapp bot By Mr Shaban",
+    "bot-name": "ZAHID-MD",
+    "description": "Whiskey Sockets Baileys Whatsapp bot By ZAHID AERI",
     "logo": "https://i.ibb.co/qYtzFsVp/shaban-md.jpg",
     "keywords": ["bot"],
     "documentation-link": "https://sbn-md-pair.zone.id/",
@@ -30,14 +30,14 @@
       "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "MR-SHABAN"
+      "value": "ZAHID-AERI"
       
     }, 
     
       "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "923043788282"
+      "value": "923472291727"
 
     }, 
  
@@ -75,7 +75,7 @@
     "AUTO_REPLY": {
       "description": "Make it true if you want automatic reply.",
       "required": true,
-      "value": "false"
+      "value": "true"
     }, 
 
     "AUTO_STICKER": {
@@ -100,20 +100,20 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*𝑺𝒉𝒂𝒃𝒂𝒏 𝑴𝒅 𝑩𝒐𝒕 𝑽𝒊𝒆𝒘𝒆𝒅 𝒀𝒐𝒖𝒓 𝑺𝒕𝒂𝒕𝒖𝒔 🦄*"
+      "value": "*ZAHID-MD*"
    
      }, 
     
     "OWNER_NAME": {
-      "description": "Type Bot Owner Name.",
+      "description": "",
       "required": false,
-      "value": "𝐌𝐫 𝐒𝐡𝐚𝐛𝐚𝐧"
+      "value": "ZAHID-MD"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "923043788282"
+      "value": "923472291727"
 
     }, 
 
@@ -140,7 +140,7 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© Gᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Sʜᴀʙᴀɴ*"
+      "value": "*ZAHID-MD*"
     },
     
     "AUTO_RECORDING": {
