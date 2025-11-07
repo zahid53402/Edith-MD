@@ -1,4 +1,4 @@
-name: EDITH-MD-DEPLOY
+name: ZAHID-MD-DEPLOY
 
 on:
   workflow_dispatch:
@@ -62,7 +62,7 @@ jobs:
 
       - name: Run Bot with Detailed Logging
         run: |
-          echo "=== STARTING EDITH-MD BOT ==="
+          echo "=== STARTING ZAHID-MD BOT ==="
           echo "Timestamp: $(date)"
           echo "Starting bot with detailed logging..."
 
