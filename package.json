@@ -1,12 +1,12 @@
 {
-  "name": "EDITH-MD",
+  "name": "ZAHID-MD",
   "version": "1.0.0",
-  "description": "WhatsApp Bot created By Bandaheali.",
+  "description": "WhatsApp Bot created By zahidaeri.",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name EDITH-MD",
-    "stop": "pm2 stop EDITH-MD",
-    "restart": "pm2 restart EDITH-MD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name ZAHID-MD",
+    "stop": "pm2 stop ZAHID-MD",
+    "restart": "pm2 restart ZAHID-MD"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "6.7.19",
